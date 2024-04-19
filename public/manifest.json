@@ -1,0 +1,9 @@
+{
+  "theme_color": "#e84c3d",
+  "background_color": "#172b4d",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Your School Software",
+  "short_name": "Your School"
+}

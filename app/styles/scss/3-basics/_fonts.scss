@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "NibPro-BoldItalic";
+  src: url("../../public/font/NibPro-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NibPro-SemiBold";
+  src: url("../../public/font/NibPro-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "NibPro-SemiBold";
+  src: url("../../public/font/NibPro-Bold.ttf") format("truetype");
+}
+
+// use above font
+
+.nibpro_bold_italic {
+  font-family: "NibPro-BoldItalic";
+}
+
+.nibpro_semi_bold {
+  font-family: "NibPro-SemiBold";
+}
+.nibpro_bold {
+  font-family: "NibPro-Bold";
+  font-weight: 700;
+}

@@ -1,0 +1,48 @@
+$menu-color: $secondary-color;
+$menu-chevron-color: $secondary-color;
+$menu-hover-color: #bb84e8;
+.dropdown-menu,
+.nav-menu {
+  width: 100%;
+  color: $menu-color;
+  &:hover {
+    color: $menu-hover-color;
+    svg {
+      fill: $menu-chevron-color;
+    }
+  }
+  align-items: center;
+  svg {
+    fill: $menu-chevron-color;
+    margin-left: 10px;
+  }
+}
+
+.nav-menu:hover,
+.dropdown-menu:hover {
+  background-color: #e9eaf5;
+}
+.dropdown-menu {
+  display: flex;
+}
+
+.rotate-chevron-on-hover {
+  svg {
+    transition: all 0.3s ease-in-out;
+  }
+  &:hover {
+    svg {
+      transition: all 0.3s ease-in-out;
+      transform: rotate(180deg);
+    }
+  }
+}
+
+.nav-menu,
+.dropdown-menu {
+  font-size: 0.9rem !important;
+}
+
+.school-nav-logo {
+  height: 5rem;
+}

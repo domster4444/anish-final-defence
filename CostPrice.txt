@@ -1,0 +1,16 @@
+Send Grid Email: 31915.68/year 50000 mail/month OR 100/day FREE
+Sparrow SMS:   29,000/year . EXAM RESULT TO PARENTS SMS rs.17000 , FEES SMS TO PARENTS rs.12000
+
+(Above Notification Can be Covered by Parents/Student App/Login)
+
+
+School Domain: 1,700 NRP per year (given as an annual cost). (USE .edu.np)
+Software Hosting:2,520 NRP per year.
+Software Domain : 1,700
+
+
+
+
+
+
+npm install -g npm@6.14.13

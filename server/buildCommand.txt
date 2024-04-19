@@ -1,0 +1,6 @@
+CONVERT BACKEND FILE TO EXECUTABLE : https://www.youtube.com/watch?v=50f6y-npKAY&ab_channel=VincentLab
+
+
+
+// create your models to ER Diagram
+ mongoose-erd-generator -p ./models -f svg -o .\erd.svg

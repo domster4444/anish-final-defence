@@ -1,0 +1,11 @@
+.all-menu-card {
+  svg.all-menu-svg {
+    fill: #6b728f !important;
+    height: 1.2rem;
+  }
+  &:hover {
+    svg.all-menu-svg {
+      fill: #ffffff !important;
+    }
+  }
+}

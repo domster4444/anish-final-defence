@@ -1,0 +1,21 @@
+********************* front end environment file path
+
+
+
+Prisma DB String:-
+LOCATION :: front-end/prisma/schema.prisma
+
+
+API CALL ENDPOINTS:
+LOCATION :: constant/constant.ts
+
+PRISMA DEFAULT BINDING PORT FOR DOCKER:
+LOCATION :: frontend/.env file
+
+
+
+
+
+********************* front end environment file path
+ALL BACKEND CONSTANTS:-
+LOCATION server\configs\config.env

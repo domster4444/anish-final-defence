@@ -1,0 +1,71 @@
+.swiper {
+  width: 100%;
+  height: 50%;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+}
+
+.swiper {
+  width: 100%;
+  height: 250px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.swiper-slide {
+  background-size: cover;
+  background-position: center;
+}
+
+.mySwiper {
+  height: 5% !important;
+  box-sizing: border-box;
+  padding: 10px 0;
+}
+
+.mySwiper .swiper-slide {
+  width: 21.65% !important;
+  height: 50%;
+  // opacity: 0.4; //? this is the opacity of the lower carousel image card
+}
+
+.mySwiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+
+.swiper-slide img {
+  border-radius: 0.25rem;
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+// todo:  lower horizontal carousel styling starts here
+.swiper-thumbs {
+  // height of lower carousel container's height
+  height: 8rem !important;
+  margin-top: 0.75rem;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  // height 100% make sure that images occupy the full height of the container
+  height: 100% !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+// big picture styling for the top carousel
+.mySwiper2 {
+  min-height: 21rem !important;
+  width: 100%;
+}

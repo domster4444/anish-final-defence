@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "bold";
+  src: url("../../public/font/bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "light";
+  src: url("../../public/font/light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "regular";
+  src: url("../../public/font/regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "medium";
+  src: url("../../public/font/medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "semiBold";
+  src: url("../../public/font/semiBold.ttf") format("truetype");
+}
+.intel_300 {
+  font-family: "light";
+  font-weight: 300;
+}
+
+.intel_400 {
+  font-family: "regular";
+  font-weight: 400;
+}
+
+.intel_500 {
+  font-family: "medium";
+  font-weight: 500;
+}
+
+.intel_600 {
+  font-family: "semiBold";
+  font-weight: 600;
+}
+.intel_700 {
+  font-family: "bold";
+  font-weight: 700;
+}
+
+* {
+  font-family: "regular";
+  font-weight: 400;
+}

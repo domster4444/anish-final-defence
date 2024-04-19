@@ -1,0 +1,227 @@
+#pricingPlanSection {
+  padding: 40px 0px;
+  main {
+    text-align: center;
+    h2 {
+      color: $primary-color;
+      font-size: 14px;
+    }
+
+    h1 {
+      color: black;
+      font-size: 32.375px;
+    }
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      @media only screen and (max-width: 768px) {
+        flex-wrap: wrap;
+      }
+    }
+
+    .priceCard {
+      &__btnContainer {
+        display: flex;
+        justify-content: center;
+      }
+
+      @media only screen and (max-width: 768px) {
+        width: 100%;
+      }
+      border-radius: 4.375px;
+      padding: 26.25px 52.5px;
+      width: 315px;
+      width: 297.5px;
+      background: rgb(249, 249, 249);
+
+      margin: 0;
+      h1 {
+        margin-top: 8.75px;
+        font-size: 30.625px;
+      }
+
+      h2 {
+        margin-top: 17.5px;
+        font-size: 18.55px;
+      }
+
+      p {
+        line-height: 21.875px;
+        margin-top: 35px;
+        color: rgb(106, 124, 146);
+        font-size: 13.75px;
+      }
+
+      button {
+        transition: all 200ms ease-in-out;
+        &:hover {
+          transition: all 100ms ease-in-out;
+          color: white;
+          background: $primary-color;
+        }
+
+        border-radius: 26.25px;
+        background: transparent;
+        font-size: 14px;
+        margin-top: 26.25px;
+        border: 0.1143rem solid $primary-color;
+        color: $primary-color;
+
+        width: 131.25px;
+        height: 43.75px;
+      }
+    }
+    .centerPricingCard {
+      background-color: $primary-color;
+      padding: 78.75px 17.5px !important;
+
+      h1 {
+        color: white;
+      }
+
+      h2 {
+        color: white;
+      }
+
+      p {
+        color: white;
+      }
+
+      button {
+        transition: all 200ms ease-in-out;
+        &:hover {
+          transition: all 100ms ease-in-out;
+
+          color: $primary-color;
+          background: white;
+        }
+
+        border-radius: 26.25px;
+
+        background: transparent;
+        font-size: 14px;
+        margin-top: 26.25px;
+        border: 0.1143rem solid white;
+        color: white;
+
+        width: 131.25px;
+        height: 43.75px;
+      }
+    }
+  }
+}
+
+// ? qr code section
+.qr-code-section {
+  margin: 8.75px 0px 35px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  header {
+    width: 100%;
+    text-align: center;
+  }
+
+  form {
+    padding: 8.75px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    h3 {
+      margin: 6.5632px 0px;
+      font-size: 16.625px;
+    }
+    input {
+      width: 100%;
+      height: 43.75px;
+      border-radius: 4.375px;
+      border: 0.1143rem solid $primary-color;
+      padding: 8.75px;
+      margin-top: 17.5px;
+      font-size: 14px;
+      color: rgb(106, 124, 146);
+    }
+  }
+}
+
+.payment-method {
+  .qr_container {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    span {
+      margin: 8.75px 0px;
+      display: flex;
+      justify-content: center;
+      border-radius: 8.75px;
+      padding: 0px 13.125px;
+      border: 0.1143rem dashed $primary-color;
+    }
+    #qr {
+      border-radius: 8.75px;
+      margin-top: 17.5px;
+      margin-bottom: 17.5px;
+    }
+  }
+
+  p {
+    font-size: 13.125px;
+  }
+  .payment-method_container {
+    width: 100%;
+    display: flex;
+    img {
+      width: 100%;
+    }
+
+    .payment-icon_block {
+      cursor: pointer;
+      padding: 8.75px;
+      border: 0.1143rem dashed #c1c1c1;
+      width: 131.25px;
+      display: flex;
+      align-items: center;
+      margin: 8.75px;
+      height: 50.75px;
+
+      &:hover {
+        border: 0.1143rem solid $primary-color;
+      }
+    }
+  }
+}
+
+.container {
+  @media only screen and (min-width: 768px) {
+    max-width: 100% !important;
+  }
+}
+
+// pricing card points styling
+li.pricing_feature_list {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+
+  div.pricing_feature_list_icon {
+    svg {
+      fill: $primary-color;
+      height: 1.4rem;
+    }
+  }
+  .pricing_feature_list_point {
+    margin-left: 1rem;
+  }
+}
+
+li.pricing_feature_list--central {
+  div.pricing_feature_list_icon {
+    svg {
+      fill: #ffffff;
+      height: 1.4rem;
+    }
+  }
+}

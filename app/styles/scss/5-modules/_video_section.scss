@@ -1,0 +1,11 @@
+.video-wrapper {
+  aspect-ratio: 10 / 4;
+  overflow: hidden;
+}
+
+.video-wrapper iframe {
+  border-radius: 0.45rem;
+  overflow: hidden;
+  width: 75%;
+  height: 100%;
+}

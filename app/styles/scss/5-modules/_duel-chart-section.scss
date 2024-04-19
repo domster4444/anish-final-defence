@@ -1,0 +1,29 @@
+.chart-container--left-section {
+  width: 65%;
+}
+.chart-container--right-section {
+  width: 34%;
+}
+
+.chart-container--left-section,
+.chart-container--right-section {
+  background: white;
+  padding: 1rem;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  border-radius: 0.35rem;
+  align-self: stretch;
+}
+
+@media only screen and (max-width: 768px) {
+  .chart-container {
+    flex-direction: column;
+  }
+  .chart-container--left-section {
+    width: 100%;
+  }
+  .chart-container--right-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+}

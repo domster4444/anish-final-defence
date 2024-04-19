@@ -1,0 +1,5507 @@
+.style-0 {
+  overflow: visible;
+  touch-action: auto;
+  cursor: auto;
+  touch-action: auto;
+  cursor: auto;
+  height: 725.6px;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-size: 16px;
+  text-rendering: optimizespeed;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-1 {
+  height: 725.6px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-2 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  --CDS-color-semantic-surface-default: #fff;
+  --CDS-color-semantic-surface-alt: #f1f1e8;
+  --CDS-color-semantic-surface-inverted: #1c1c1c;
+  --CDS-color-semantic-surface-disabled: rgba(28, 28, 28, 0.1);
+  --CDS-color-semantic-surface-background-default: #fcfbf3;
+  --CDS-color-semantic-surface-foreground-default: #1c1c1c;
+  --CDS-color-semantic-surface-foreground-subtle: #696a6a;
+  --CDS-color-semantic-surface-foreground-disabled: rgba(28, 28, 28, 0.3);
+  --CDS-color-semantic-surface-foreground-inverted: #fff;
+  --CDS-color-semantic-border-default: #e5e5dd;
+  --CDS-color-semantic-actions-default: #205cd4;
+  --CDS-color-semantic-actions-hover: #07348a;
+  --CDS-color-semantic-actions-active: #0a204d;
+  --CDS-color-semantic-actions-surface: #d8e4fa;
+  --CDS-color-semantic-actions-surface-hover: #c2d5f7;
+  --CDS-color-semantic-actions-surface-active: #7aa0e9;
+  --CDS-color-semantic-feedback-info-surface: #c2d5f7;
+  --CDS-color-semantic-feedback-info-default: #205cd4;
+  --CDS-color-semantic-feedback-info-hover: #07348a;
+  --CDS-color-semantic-feedback-info-active: #0a204d;
+  --CDS-color-semantic-feedback-critical-surface: #fdc8c0;
+  --CDS-color-semantic-feedback-critical-default: #d01e08;
+  --CDS-color-semantic-feedback-critical-hover: #a60f00;
+  --CDS-color-semantic-feedback-critical-active: #7a0a00;
+  --CDS-color-semantic-feedback-warning-surface: #fce1a8;
+  --CDS-color-semantic-feedback-warning-default: #f9b21b;
+  --CDS-color-semantic-feedback-warning-hover: #d99100;
+  --CDS-color-semantic-feedback-warning-active: #b57700;
+  --CDS-color-semantic-feedback-warning-foreground: #1c1c1c;
+  --CDS-color-semantic-feedback-positive-surface: #b1f2d0;
+  --CDS-color-semantic-feedback-positive-default: #0e7946;
+  --CDS-color-semantic-feedback-positive-hover: #025e35;
+  --CDS-color-semantic-feedback-positive-active: #0a4427;
+  --CDS-color-semantic-feedback-historic-surface: #d8d0ed;
+  --CDS-color-semantic-feedback-historic-default: #7357c0;
+  --CDS-color-semantic-feedback-historic-hover: #5b3fa2;
+  --CDS-color-semantic-feedback-historic-active: #412d78;
+  --CDS-color-base-trustpilot-star-rating-five: #00b67a;
+  --CDS-color-base-trustpilot-star-rating-four: #73cf11;
+  --CDS-color-base-trustpilot-star-rating-three: #ffce00;
+  --CDS-color-base-trustpilot-star-rating-two: #ff8622;
+  --CDS-color-base-trustpilot-star-rating-one: #ff3722;
+  --CDS-color-base-trustpilot-star-rating-zero: #e8e8eb;
+  --CDS-color-base-trustpilot-brand-green-primary: #04da8d;
+  --CDS-color-base-trustpilot-brand-green-secondary: #022a1c;
+  --CDS-color-base-trustpilot-brand-yellow-primary: #ffe500;
+  --CDS-color-base-trustpilot-brand-yellow-secondary: #3f3500;
+  --CDS-color-base-trustpilot-brand-orange-primary: #fe7a1a;
+  --CDS-color-base-trustpilot-brand-orange-secondary: #412612;
+  --CDS-color-base-trustpilot-brand-pink-primary: #f95a93;
+  --CDS-color-base-trustpilot-brand-pink-secondary: #4d001c;
+  --CDS-color-base-trustpilot-brand-neutral-white: #fff;
+  --CDS-color-base-trustpilot-brand-neutral-black: #1c1c1c;
+  --CDS-color-base-trustpilot-brand-neutral-beige: #fcfbf3;
+  --CDS-opacity-0: 0;
+  --CDS-opacity-10: 0.1;
+  --CDS-opacity-30: 0.3;
+  --CDS-opacity-50: 0.5;
+  --CDS-type-line-height-120: 120%;
+  --CDS-type-line-height-130: 130%;
+  --CDS-type-line-height-140: 140%;
+  --CDS-type-letter-spacing-display: -0.015px;
+  --CDS-type-letter-spacing-heading: -0.011px;
+  --CDS-type-letter-spacing-body: 0.011px;
+  --CDS-type-styles-small-display-l-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-l-font-weight: 900;
+  --CDS-type-styles-small-display-l-line-height: 130%;
+  --CDS-type-styles-small-display-l-font-size: 32px;
+  --CDS-type-styles-small-display-l-letter-spacing: -0.48px;
+  --CDS-type-styles-small-display-m-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-m-font-weight: 900;
+  --CDS-type-styles-small-display-m-line-height: 130%;
+  --CDS-type-styles-small-display-m-font-size: 24px;
+  --CDS-type-styles-small-display-m-letter-spacing: -0.36px;
+  --CDS-type-styles-small-display-s-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-s-font-weight: 900;
+  --CDS-type-styles-small-display-s-line-height: 130%;
+  --CDS-type-styles-small-display-s-font-size: 20px;
+  --CDS-type-styles-small-display-s-letter-spacing: -0.3px;
+  --CDS-type-styles-small-display-xs-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-xs-font-weight: 900;
+  --CDS-type-styles-small-display-xs-line-height: 130%;
+  --CDS-type-styles-small-display-xs-font-size: 18px;
+  --CDS-type-styles-small-display-xs-letter-spacing: -0.27px;
+  --CDS-type-styles-small-heading-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xl-font-weight: 700;
+  --CDS-type-styles-small-heading-xl-line-height: 120%;
+  --CDS-type-styles-small-heading-xl-font-size: 32px;
+  --CDS-type-styles-small-heading-xl-letter-spacing: -0.352px;
+  --CDS-type-styles-small-heading-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-l-font-weight: 700;
+  --CDS-type-styles-small-heading-l-line-height: 120%;
+  --CDS-type-styles-small-heading-l-font-size: 24px;
+  --CDS-type-styles-small-heading-l-letter-spacing: -0.264px;
+  --CDS-type-styles-small-heading-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-m-font-weight: 700;
+  --CDS-type-styles-small-heading-m-line-height: 120%;
+  --CDS-type-styles-small-heading-m-font-size: 20px;
+  --CDS-type-styles-small-heading-m-letter-spacing: -0.22px;
+  --CDS-type-styles-small-heading-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-s-font-weight: 700;
+  --CDS-type-styles-small-heading-s-line-height: 120%;
+  --CDS-type-styles-small-heading-s-font-size: 18px;
+  --CDS-type-styles-small-heading-s-letter-spacing: -0.198px;
+  --CDS-type-styles-small-heading-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xs-font-weight: 700;
+  --CDS-type-styles-small-heading-xs-line-height: 120%;
+  --CDS-type-styles-small-heading-xs-font-size: 16px;
+  --CDS-type-styles-small-heading-xs-letter-spacing: -0.176px;
+  --CDS-type-styles-small-heading-xxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xxs-font-weight: 700;
+  --CDS-type-styles-small-heading-xxs-line-height: 120%;
+  --CDS-type-styles-small-heading-xxs-font-size: 14px;
+  --CDS-type-styles-small-heading-xxs-letter-spacing: -0.154px;
+  --CDS-type-styles-small-heading-xxxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xxxs-font-weight: 700;
+  --CDS-type-styles-small-heading-xxxs-line-height: 120%;
+  --CDS-type-styles-small-heading-xxxs-font-size: 12px;
+  --CDS-type-styles-small-heading-xxxs-letter-spacing: -0.132px;
+  --CDS-type-styles-small-body-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-xl-font-weight: 400;
+  --CDS-type-styles-small-body-xl-line-height: 140%;
+  --CDS-type-styles-small-body-xl-font-size: 18px;
+  --CDS-type-styles-small-body-xl-letter-spacing: 0.198px;
+  --CDS-type-styles-small-body-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-l-font-weight: 400;
+  --CDS-type-styles-small-body-l-line-height: 140%;
+  --CDS-type-styles-small-body-l-font-size: 16px;
+  --CDS-type-styles-small-body-l-letter-spacing: 0.176px;
+  --CDS-type-styles-small-body-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-m-font-weight: 400;
+  --CDS-type-styles-small-body-m-line-height: 140%;
+  --CDS-type-styles-small-body-m-font-size: 14px;
+  --CDS-type-styles-small-body-m-letter-spacing: 0.154px;
+  --CDS-type-styles-small-body-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-s-font-weight: 400;
+  --CDS-type-styles-small-body-s-line-height: 140%;
+  --CDS-type-styles-small-body-s-font-size: 12px;
+  --CDS-type-styles-small-body-s-letter-spacing: 0.132px;
+  --CDS-type-styles-small-body-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-xs-font-weight: 400;
+  --CDS-type-styles-small-body-xs-line-height: 140%;
+  --CDS-type-styles-small-body-xs-font-size: 10px;
+  --CDS-type-styles-small-body-xs-letter-spacing: 0.11px;
+  --CDS-type-styles-large-display-l-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-l-font-weight: 900;
+  --CDS-type-styles-large-display-l-line-height: 130%;
+  --CDS-type-styles-large-display-l-font-size: 48px;
+  --CDS-type-styles-large-display-l-letter-spacing: -0.72px;
+  --CDS-type-styles-large-display-m-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-m-font-weight: 900;
+  --CDS-type-styles-large-display-m-line-height: 130%;
+  --CDS-type-styles-large-display-m-font-size: 40px;
+  --CDS-type-styles-large-display-m-letter-spacing: -0.6px;
+  --CDS-type-styles-large-display-s-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-s-font-weight: 900;
+  --CDS-type-styles-large-display-s-line-height: 130%;
+  --CDS-type-styles-large-display-s-font-size: 32px;
+  --CDS-type-styles-large-display-s-letter-spacing: -0.48px;
+  --CDS-type-styles-large-display-xs-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-xs-font-weight: 900;
+  --CDS-type-styles-large-display-xs-line-height: 130%;
+  --CDS-type-styles-large-display-xs-font-size: 24px;
+  --CDS-type-styles-large-display-xs-letter-spacing: -0.36px;
+  --CDS-type-styles-large-heading-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xl-font-weight: 700;
+  --CDS-type-styles-large-heading-xl-line-height: 120%;
+  --CDS-type-styles-large-heading-xl-font-size: 40px;
+  --CDS-type-styles-large-heading-xl-letter-spacing: -0.44px;
+  --CDS-type-styles-large-heading-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-l-font-weight: 700;
+  --CDS-type-styles-large-heading-l-line-height: 120%;
+  --CDS-type-styles-large-heading-l-font-size: 32px;
+  --CDS-type-styles-large-heading-l-letter-spacing: -0.352px;
+  --CDS-type-styles-large-heading-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-m-font-weight: 700;
+  --CDS-type-styles-large-heading-m-line-height: 120%;
+  --CDS-type-styles-large-heading-m-font-size: 24px;
+  --CDS-type-styles-large-heading-m-letter-spacing: -0.264px;
+  --CDS-type-styles-large-heading-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-s-font-weight: 700;
+  --CDS-type-styles-large-heading-s-line-height: 120%;
+  --CDS-type-styles-large-heading-s-font-size: 18px;
+  --CDS-type-styles-large-heading-s-letter-spacing: -0.198px;
+  --CDS-type-styles-large-heading-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xs-font-weight: 700;
+  --CDS-type-styles-large-heading-xs-line-height: 120%;
+  --CDS-type-styles-large-heading-xs-font-size: 16px;
+  --CDS-type-styles-large-heading-xs-letter-spacing: -0.176px;
+  --CDS-type-styles-large-heading-xxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xxs-font-weight: 700;
+  --CDS-type-styles-large-heading-xxs-line-height: 120%;
+  --CDS-type-styles-large-heading-xxs-font-size: 14px;
+  --CDS-type-styles-large-heading-xxs-letter-spacing: -0.154px;
+  --CDS-type-styles-large-heading-xxxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xxxs-font-weight: 700;
+  --CDS-type-styles-large-heading-xxxs-line-height: 120%;
+  --CDS-type-styles-large-heading-xxxs-font-size: 12px;
+  --CDS-type-styles-large-heading-xxxs-letter-spacing: -0.132px;
+  --CDS-type-styles-large-body-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-xl-font-weight: 400;
+  --CDS-type-styles-large-body-xl-line-height: 140%;
+  --CDS-type-styles-large-body-xl-font-size: 18px;
+  --CDS-type-styles-large-body-xl-letter-spacing: 0.198px;
+  --CDS-type-styles-large-body-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-l-font-weight: 400;
+  --CDS-type-styles-large-body-l-line-height: 140%;
+  --CDS-type-styles-large-body-l-font-size: 16px;
+  --CDS-type-styles-large-body-l-letter-spacing: 0.176px;
+  --CDS-type-styles-large-body-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-m-font-weight: 400;
+  --CDS-type-styles-large-body-m-line-height: 140%;
+  --CDS-type-styles-large-body-m-font-size: 14px;
+  --CDS-type-styles-large-body-m-letter-spacing: 0.154px;
+  --CDS-type-styles-large-body-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-s-font-weight: 400;
+  --CDS-type-styles-large-body-s-line-height: 140%;
+  --CDS-type-styles-large-body-s-font-size: 12px;
+  --CDS-type-styles-large-body-s-letter-spacing: 0.132px;
+  --CDS-type-styles-large-body-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-xs-font-weight: 400;
+  --CDS-type-styles-large-body-xs-line-height: 140%;
+  --CDS-type-styles-large-body-xs-font-size: 10px;
+  --CDS-type-styles-large-body-xs-letter-spacing: 0.11px;
+  --CDS-spacing-none: 0;
+  --CDS-spacing-xxxs: 2px;
+  --CDS-spacing-xxs: 4px;
+  --CDS-spacing-xs: 8px;
+  --CDS-spacing-s: 12px;
+  --CDS-spacing-m: 16px;
+  --CDS-spacing-l: 24px;
+  --CDS-spacing-xl: 32px;
+  --CDS-spacing-xxl: 40px;
+  --CDS-spacing-xxxl: 64px;
+  --CDS-border-radius-none: 0;
+  --CDS-border-radius-xs: 2px;
+  --CDS-border-radius-s: 4px;
+  --CDS-border-radius-m: 8px;
+  --CDS-border-radius-l: 16px;
+  --CDS-border-radius-xl: 24px;
+  --CDS-border-radius-xxl: 32px;
+  --CDS-border-radius-full: 9999px;
+  --CDS-box-shadow-30: 0 0 8px 0 #0000004d;
+  --CDS-box-shadow-80: 0 0 8px 0 #000000cc;
+}
+
+.style-3 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+  min-height: 742.4px;
+}
+
+.style-4 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  --CDS-color-semantic-surface-default: #3a3b3b;
+  --CDS-color-semantic-surface-alt: #252626;
+  --CDS-color-semantic-surface-inverted: #fcfbf3;
+  --CDS-color-semantic-surface-disabled: hsla(53, 60%, 97%, 0.1);
+  --CDS-color-semantic-surface-background-default: #1c1c1c;
+  --CDS-color-semantic-surface-foreground-default: #fcfbf3;
+  --CDS-color-semantic-surface-foreground-subtle: #9fa0a0;
+  --CDS-color-semantic-surface-foreground-disabled: hsla(53, 60%, 97%, 0.3);
+  --CDS-color-semantic-surface-foreground-inverted: #1c1c1c;
+  --CDS-color-semantic-border-default: #515252;
+  --CDS-color-semantic-actions-default: #a6c0f0;
+  --CDS-color-semantic-actions-hover: #c2d5f7;
+  --CDS-color-semantic-actions-active: #d8e4fa;
+  --CDS-color-semantic-actions-surface: #07348a;
+  --CDS-color-semantic-actions-surface-hover: #0747c0;
+  --CDS-color-semantic-actions-surface-active: #205cd4;
+  --CDS-color-semantic-feedback-info-surface: #0a204d;
+  --CDS-color-semantic-feedback-info-default: #a6c0f0;
+  --CDS-color-semantic-feedback-info-hover: #c2d5f7;
+  --CDS-color-semantic-feedback-info-active: #d8e4fa;
+  --CDS-color-semantic-feedback-critical-surface: #510800;
+  --CDS-color-semantic-feedback-critical-default: #ffa99b;
+  --CDS-color-semantic-feedback-critical-hover: #fdc8c0;
+  --CDS-color-semantic-feedback-critical-active: #fbdeda;
+  --CDS-color-semantic-feedback-warning-surface: #37210e;
+  --CDS-color-semantic-feedback-warning-default: #fecd6a;
+  --CDS-color-semantic-feedback-warning-hover: #fce1a8;
+  --CDS-color-semantic-feedback-warning-active: #fbf0d5;
+  --CDS-color-semantic-feedback-warning-foreground: #1c1c1c;
+  --CDS-color-semantic-feedback-positive-surface: #0f2b1a;
+  --CDS-color-semantic-feedback-positive-default: #4dd78a;
+  --CDS-color-semantic-feedback-positive-hover: #89e7b2;
+  --CDS-color-semantic-feedback-positive-active: #b1f2d0;
+  --CDS-color-semantic-feedback-historic-surface: #291e4d;
+  --CDS-color-semantic-feedback-historic-default: #c3b9e2;
+  --CDS-color-semantic-feedback-historic-hover: #d8d0ed;
+  --CDS-color-semantic-feedback-historic-active: #e6e1f3;
+}
+
+.style-5 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.style-6 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(252, 251, 243);
+  color: rgb(28, 28, 28);
+}
+
+.style-7 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border-bottom: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+}
+
+.style-8 {
+  min-height: 230px;
+  margin: 0px auto;
+  box-sizing: border-box;
+  padding: 0px 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.style-9 {
+  margin-top: 24px;
+  margin-bottom: 56px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.style-10 {
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.style-11 {
+  font-family: "Trustpilot Display", Arial, sans-serif;
+  font-weight: 900;
+  line-height: 52px;
+  font-size: 40px;
+  letter-spacing: -0.6px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-12 {
+  display: none;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-13 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-14 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(28, 28, 28);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-15 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-16 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-17 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-18 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 22.4px;
+  font-size: 16px;
+  letter-spacing: 0.176px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(105, 106, 106);
+}
+
+.style-19 {
+  display: block;
+  margin: 0px 8px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-20 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-21 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(28, 28, 28);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-22 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-23 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-24 {
+  flex-direction: row;
+  margin: 0px auto;
+  box-sizing: border-box;
+  padding: 24px 16px 40px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  padding-top: 24px;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.style-25 {
+  max-width: 328px;
+  display: flex;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  flex-direction: column;
+}
+
+.style-26 {
+  flex: 1 1 0%;
+  min-width: 0px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+}
+
+.style-27 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-28 {
+  display: none;
+  box-sizing: border-box;
+  margin: -24px -16px 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  position: sticky;
+  top: -1px;
+  z-index: 80;
+  background-color: rgb(255, 255, 255);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 0px 8px 0px;
+  margin-top: -24px;
+  margin-left: -16px;
+  margin-right: -16px;
+  transition: box-shadow 0.1s ease 0s;
+}
+
+.style-29 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+}
+
+.style-30 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 12px 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border-radius: 4px 0px 0px 4px;
+  border-right: 0px none rgb(32, 92, 212);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 0%;
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+  border: 1px solid #205cd4;
+  color: rgb(32, 92, 212);
+}
+
+.style-31 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 16.8px;
+  font-size: 14px;
+  letter-spacing: -0.154px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(32, 92, 212);
+}
+
+.style-32 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+  transform: none;
+}
+
+.style-33 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-34 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-35 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-36 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-37 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-38 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 12px 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border-radius: 0px 4px 4px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1 1 0%;
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+  border: 0.8px solid rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+}
+
+.style-39 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 16.8px;
+  font-size: 14px;
+  letter-spacing: -0.154px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(32, 92, 212);
+}
+
+.style-40 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-41 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-42 {
+  box-sizing: border-box;
+  margin: 12px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  --CDS-color-semantic-surface-default: #fff;
+  --CDS-color-semantic-surface-alt: #f1f1e8;
+  --CDS-color-semantic-surface-inverted: #1c1c1c;
+  --CDS-color-semantic-surface-disabled: rgba(28, 28, 28, 0.1);
+  --CDS-color-semantic-surface-background-default: #fcfbf3;
+  --CDS-color-semantic-surface-foreground-default: #1c1c1c;
+  --CDS-color-semantic-surface-foreground-subtle: #696a6a;
+  --CDS-color-semantic-surface-foreground-disabled: rgba(28, 28, 28, 0.3);
+  --CDS-color-semantic-surface-foreground-inverted: #fff;
+  --CDS-color-semantic-border-default: #e5e5dd;
+  --CDS-color-semantic-actions-default: #205cd4;
+  --CDS-color-semantic-actions-hover: #07348a;
+  --CDS-color-semantic-actions-active: #0a204d;
+  --CDS-color-semantic-actions-surface: #d8e4fa;
+  --CDS-color-semantic-actions-surface-hover: #c2d5f7;
+  --CDS-color-semantic-actions-surface-active: #7aa0e9;
+  --CDS-color-semantic-feedback-info-surface: #c2d5f7;
+  --CDS-color-semantic-feedback-info-default: #205cd4;
+  --CDS-color-semantic-feedback-info-hover: #07348a;
+  --CDS-color-semantic-feedback-info-active: #0a204d;
+  --CDS-color-semantic-feedback-critical-surface: #fdc8c0;
+  --CDS-color-semantic-feedback-critical-default: #d01e08;
+  --CDS-color-semantic-feedback-critical-hover: #a60f00;
+  --CDS-color-semantic-feedback-critical-active: #7a0a00;
+  --CDS-color-semantic-feedback-warning-surface: #fce1a8;
+  --CDS-color-semantic-feedback-warning-default: #f9b21b;
+  --CDS-color-semantic-feedback-warning-hover: #d99100;
+  --CDS-color-semantic-feedback-warning-active: #b57700;
+  --CDS-color-semantic-feedback-warning-foreground: #1c1c1c;
+  --CDS-color-semantic-feedback-positive-surface: #b1f2d0;
+  --CDS-color-semantic-feedback-positive-default: #0e7946;
+  --CDS-color-semantic-feedback-positive-hover: #025e35;
+  --CDS-color-semantic-feedback-positive-active: #0a4427;
+  --CDS-color-semantic-feedback-historic-surface: #d8d0ed;
+  --CDS-color-semantic-feedback-historic-default: #7357c0;
+  --CDS-color-semantic-feedback-historic-hover: #5b3fa2;
+  --CDS-color-semantic-feedback-historic-active: #412d78;
+  --CDS-color-base-trustpilot-star-rating-five: #00b67a;
+  --CDS-color-base-trustpilot-star-rating-four: #73cf11;
+  --CDS-color-base-trustpilot-star-rating-three: #ffce00;
+  --CDS-color-base-trustpilot-star-rating-two: #ff8622;
+  --CDS-color-base-trustpilot-star-rating-one: #ff3722;
+  --CDS-color-base-trustpilot-star-rating-zero: #e8e8eb;
+  --CDS-color-base-trustpilot-brand-green-primary: #04da8d;
+  --CDS-color-base-trustpilot-brand-green-secondary: #022a1c;
+  --CDS-color-base-trustpilot-brand-yellow-primary: #ffe500;
+  --CDS-color-base-trustpilot-brand-yellow-secondary: #3f3500;
+  --CDS-color-base-trustpilot-brand-orange-primary: #fe7a1a;
+  --CDS-color-base-trustpilot-brand-orange-secondary: #412612;
+  --CDS-color-base-trustpilot-brand-pink-primary: #f95a93;
+  --CDS-color-base-trustpilot-brand-pink-secondary: #4d001c;
+  --CDS-color-base-trustpilot-brand-neutral-white: #fff;
+  --CDS-color-base-trustpilot-brand-neutral-black: #1c1c1c;
+  --CDS-color-base-trustpilot-brand-neutral-beige: #fcfbf3;
+  --CDS-opacity-0: 0;
+  --CDS-opacity-10: 0.1;
+  --CDS-opacity-30: 0.3;
+  --CDS-opacity-50: 0.5;
+  --CDS-type-line-height-120: 120%;
+  --CDS-type-line-height-130: 130%;
+  --CDS-type-line-height-140: 140%;
+  --CDS-type-letter-spacing-display: -0.015px;
+  --CDS-type-letter-spacing-heading: -0.011px;
+  --CDS-type-letter-spacing-body: 0.011px;
+  --CDS-type-styles-small-display-l-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-l-font-weight: 900;
+  --CDS-type-styles-small-display-l-line-height: 130%;
+  --CDS-type-styles-small-display-l-font-size: 32px;
+  --CDS-type-styles-small-display-l-letter-spacing: -0.48px;
+  --CDS-type-styles-small-display-m-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-m-font-weight: 900;
+  --CDS-type-styles-small-display-m-line-height: 130%;
+  --CDS-type-styles-small-display-m-font-size: 24px;
+  --CDS-type-styles-small-display-m-letter-spacing: -0.36px;
+  --CDS-type-styles-small-display-s-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-s-font-weight: 900;
+  --CDS-type-styles-small-display-s-line-height: 130%;
+  --CDS-type-styles-small-display-s-font-size: 20px;
+  --CDS-type-styles-small-display-s-letter-spacing: -0.3px;
+  --CDS-type-styles-small-display-xs-font-family: Trustpilot Display;
+  --CDS-type-styles-small-display-xs-font-weight: 900;
+  --CDS-type-styles-small-display-xs-line-height: 130%;
+  --CDS-type-styles-small-display-xs-font-size: 18px;
+  --CDS-type-styles-small-display-xs-letter-spacing: -0.27px;
+  --CDS-type-styles-small-heading-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xl-font-weight: 700;
+  --CDS-type-styles-small-heading-xl-line-height: 120%;
+  --CDS-type-styles-small-heading-xl-font-size: 32px;
+  --CDS-type-styles-small-heading-xl-letter-spacing: -0.352px;
+  --CDS-type-styles-small-heading-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-l-font-weight: 700;
+  --CDS-type-styles-small-heading-l-line-height: 120%;
+  --CDS-type-styles-small-heading-l-font-size: 24px;
+  --CDS-type-styles-small-heading-l-letter-spacing: -0.264px;
+  --CDS-type-styles-small-heading-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-m-font-weight: 700;
+  --CDS-type-styles-small-heading-m-line-height: 120%;
+  --CDS-type-styles-small-heading-m-font-size: 20px;
+  --CDS-type-styles-small-heading-m-letter-spacing: -0.22px;
+  --CDS-type-styles-small-heading-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-s-font-weight: 700;
+  --CDS-type-styles-small-heading-s-line-height: 120%;
+  --CDS-type-styles-small-heading-s-font-size: 18px;
+  --CDS-type-styles-small-heading-s-letter-spacing: -0.198px;
+  --CDS-type-styles-small-heading-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xs-font-weight: 700;
+  --CDS-type-styles-small-heading-xs-line-height: 120%;
+  --CDS-type-styles-small-heading-xs-font-size: 16px;
+  --CDS-type-styles-small-heading-xs-letter-spacing: -0.176px;
+  --CDS-type-styles-small-heading-xxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xxs-font-weight: 700;
+  --CDS-type-styles-small-heading-xxs-line-height: 120%;
+  --CDS-type-styles-small-heading-xxs-font-size: 14px;
+  --CDS-type-styles-small-heading-xxs-letter-spacing: -0.154px;
+  --CDS-type-styles-small-heading-xxxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-heading-xxxs-font-weight: 700;
+  --CDS-type-styles-small-heading-xxxs-line-height: 120%;
+  --CDS-type-styles-small-heading-xxxs-font-size: 12px;
+  --CDS-type-styles-small-heading-xxxs-letter-spacing: -0.132px;
+  --CDS-type-styles-small-body-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-xl-font-weight: 400;
+  --CDS-type-styles-small-body-xl-line-height: 140%;
+  --CDS-type-styles-small-body-xl-font-size: 18px;
+  --CDS-type-styles-small-body-xl-letter-spacing: 0.198px;
+  --CDS-type-styles-small-body-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-l-font-weight: 400;
+  --CDS-type-styles-small-body-l-line-height: 140%;
+  --CDS-type-styles-small-body-l-font-size: 16px;
+  --CDS-type-styles-small-body-l-letter-spacing: 0.176px;
+  --CDS-type-styles-small-body-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-m-font-weight: 400;
+  --CDS-type-styles-small-body-m-line-height: 140%;
+  --CDS-type-styles-small-body-m-font-size: 14px;
+  --CDS-type-styles-small-body-m-letter-spacing: 0.154px;
+  --CDS-type-styles-small-body-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-s-font-weight: 400;
+  --CDS-type-styles-small-body-s-line-height: 140%;
+  --CDS-type-styles-small-body-s-font-size: 12px;
+  --CDS-type-styles-small-body-s-letter-spacing: 0.132px;
+  --CDS-type-styles-small-body-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-small-body-xs-font-weight: 400;
+  --CDS-type-styles-small-body-xs-line-height: 140%;
+  --CDS-type-styles-small-body-xs-font-size: 10px;
+  --CDS-type-styles-small-body-xs-letter-spacing: 0.11px;
+  --CDS-type-styles-large-display-l-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-l-font-weight: 900;
+  --CDS-type-styles-large-display-l-line-height: 130%;
+  --CDS-type-styles-large-display-l-font-size: 48px;
+  --CDS-type-styles-large-display-l-letter-spacing: -0.72px;
+  --CDS-type-styles-large-display-m-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-m-font-weight: 900;
+  --CDS-type-styles-large-display-m-line-height: 130%;
+  --CDS-type-styles-large-display-m-font-size: 40px;
+  --CDS-type-styles-large-display-m-letter-spacing: -0.6px;
+  --CDS-type-styles-large-display-s-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-s-font-weight: 900;
+  --CDS-type-styles-large-display-s-line-height: 130%;
+  --CDS-type-styles-large-display-s-font-size: 32px;
+  --CDS-type-styles-large-display-s-letter-spacing: -0.48px;
+  --CDS-type-styles-large-display-xs-font-family: Trustpilot Display;
+  --CDS-type-styles-large-display-xs-font-weight: 900;
+  --CDS-type-styles-large-display-xs-line-height: 130%;
+  --CDS-type-styles-large-display-xs-font-size: 24px;
+  --CDS-type-styles-large-display-xs-letter-spacing: -0.36px;
+  --CDS-type-styles-large-heading-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xl-font-weight: 700;
+  --CDS-type-styles-large-heading-xl-line-height: 120%;
+  --CDS-type-styles-large-heading-xl-font-size: 40px;
+  --CDS-type-styles-large-heading-xl-letter-spacing: -0.44px;
+  --CDS-type-styles-large-heading-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-l-font-weight: 700;
+  --CDS-type-styles-large-heading-l-line-height: 120%;
+  --CDS-type-styles-large-heading-l-font-size: 32px;
+  --CDS-type-styles-large-heading-l-letter-spacing: -0.352px;
+  --CDS-type-styles-large-heading-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-m-font-weight: 700;
+  --CDS-type-styles-large-heading-m-line-height: 120%;
+  --CDS-type-styles-large-heading-m-font-size: 24px;
+  --CDS-type-styles-large-heading-m-letter-spacing: -0.264px;
+  --CDS-type-styles-large-heading-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-s-font-weight: 700;
+  --CDS-type-styles-large-heading-s-line-height: 120%;
+  --CDS-type-styles-large-heading-s-font-size: 18px;
+  --CDS-type-styles-large-heading-s-letter-spacing: -0.198px;
+  --CDS-type-styles-large-heading-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xs-font-weight: 700;
+  --CDS-type-styles-large-heading-xs-line-height: 120%;
+  --CDS-type-styles-large-heading-xs-font-size: 16px;
+  --CDS-type-styles-large-heading-xs-letter-spacing: -0.176px;
+  --CDS-type-styles-large-heading-xxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xxs-font-weight: 700;
+  --CDS-type-styles-large-heading-xxs-line-height: 120%;
+  --CDS-type-styles-large-heading-xxs-font-size: 14px;
+  --CDS-type-styles-large-heading-xxs-letter-spacing: -0.154px;
+  --CDS-type-styles-large-heading-xxxs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-heading-xxxs-font-weight: 700;
+  --CDS-type-styles-large-heading-xxxs-line-height: 120%;
+  --CDS-type-styles-large-heading-xxxs-font-size: 12px;
+  --CDS-type-styles-large-heading-xxxs-letter-spacing: -0.132px;
+  --CDS-type-styles-large-body-xl-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-xl-font-weight: 400;
+  --CDS-type-styles-large-body-xl-line-height: 140%;
+  --CDS-type-styles-large-body-xl-font-size: 18px;
+  --CDS-type-styles-large-body-xl-letter-spacing: 0.198px;
+  --CDS-type-styles-large-body-l-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-l-font-weight: 400;
+  --CDS-type-styles-large-body-l-line-height: 140%;
+  --CDS-type-styles-large-body-l-font-size: 16px;
+  --CDS-type-styles-large-body-l-letter-spacing: 0.176px;
+  --CDS-type-styles-large-body-m-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-m-font-weight: 400;
+  --CDS-type-styles-large-body-m-line-height: 140%;
+  --CDS-type-styles-large-body-m-font-size: 14px;
+  --CDS-type-styles-large-body-m-letter-spacing: 0.154px;
+  --CDS-type-styles-large-body-s-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-s-font-weight: 400;
+  --CDS-type-styles-large-body-s-line-height: 140%;
+  --CDS-type-styles-large-body-s-font-size: 12px;
+  --CDS-type-styles-large-body-s-letter-spacing: 0.132px;
+  --CDS-type-styles-large-body-xs-font-family: TrustpilotDefaultFont;
+  --CDS-type-styles-large-body-xs-font-weight: 400;
+  --CDS-type-styles-large-body-xs-line-height: 140%;
+  --CDS-type-styles-large-body-xs-font-size: 10px;
+  --CDS-type-styles-large-body-xs-letter-spacing: 0.11px;
+  --CDS-spacing-none: 0;
+  --CDS-spacing-xxxs: 2px;
+  --CDS-spacing-xxs: 4px;
+  --CDS-spacing-xs: 8px;
+  --CDS-spacing-s: 12px;
+  --CDS-spacing-m: 16px;
+  --CDS-spacing-l: 24px;
+  --CDS-spacing-xl: 32px;
+  --CDS-spacing-xxl: 40px;
+  --CDS-spacing-xxxl: 64px;
+  --CDS-border-radius-none: 0;
+  --CDS-border-radius-xs: 2px;
+  --CDS-border-radius-s: 4px;
+  --CDS-border-radius-m: 8px;
+  --CDS-border-radius-l: 16px;
+  --CDS-border-radius-xl: 24px;
+  --CDS-border-radius-xxl: 32px;
+  --CDS-border-radius-full: 9999px;
+  --CDS-box-shadow-30: 0 0 8px 0 #0000004d;
+  --CDS-box-shadow-80: 0 0 8px 0 #000000cc;
+  margin-top: 12px;
+}
+
+.style-43 {
+  box-sizing: border-box;
+  margin: 12px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-44 {
+  padding: 16px 16px 24px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+  height: 117px;
+  display: flex;
+  color: rgb(28, 28, 28);
+  text-decoration: none solid rgb(28, 28, 28);
+  position: relative;
+  flex-direction: column;
+  outline-offset: -1px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.style-45 {
+  position: absolute;
+  top: 16px;
+  right: 12px;
+  box-sizing: border-box;
+  margin: -4px -4px 4px 0px;
+  padding: 4px 8px;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  background-color: rgb(242, 242, 245);
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-size: 10px;
+  line-height: 12px;
+  align-self: flex-end;
+  margin-top: -4px;
+  margin-right: -4px;
+  margin-bottom: 4px;
+}
+
+.style-46 {
+  margin-left: 8px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-47 {
+  width: 72px;
+  margin-right: 32px;
+  box-sizing: border-box;
+  margin: 0px 32px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  flex: 0 0 auto;
+}
+
+.style-48 {
+  max-width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 5px 0px 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  align-items: flex-start;
+  padding-top: 5px;
+  justify-content: center;
+  height: 77px;
+  width: 100%;
+}
+
+.style-49 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-50 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-51 {
+  width: 72px;
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  max-height: 100%;
+}
+
+.style-52 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 0px;
+}
+
+.style-53 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 19.2px;
+  font-size: 16px;
+  letter-spacing: -0.176px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  margin: 0px 0px 8px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-54 {
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+}
+
+.style-55 {
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 0px;
+  width: auto;
+  max-width: 340px;
+  display: flex;
+}
+
+.style-56 {
+  height: 20px;
+  line-height: 20px;
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: auto;
+}
+
+.style-57 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  font-size: 14px;
+  letter-spacing: 0.154px;
+  margin-left: 12px;
+  height: 20px;
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px;
+  color: rgb(105, 106, 106);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.style-58 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  font-size: 14px;
+  letter-spacing: 0.154px;
+  height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(105, 106, 106);
+}
+
+.style-59 {
+  display: inline;
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-60 {
+  margin: 0px 12px;
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  color: rgb(220, 220, 230);
+}
+
+.style-61 {
+  flex-direction: row;
+  box-sizing: border-box;
+  margin: 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  align-items: baseline;
+  display: flex;
+  margin-top: 8px;
+}
+
+.style-62 {
+  display: none;
+  padding: 12px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-63 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: rgb(69, 69, 84);
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.style-64 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-65 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-66 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-67 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-68 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-69 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-70 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-71 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-72 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-73 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-74 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-75 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  background-color: rgb(229, 229, 221);
+  display: block;
+  height: 1px;
+  border: 0px none rgb(28, 28, 28);
+  outline: rgb(28, 28, 28) none 0px;
+}
+
+.style-76 {
+  padding: 12px 16px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-77 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.style-78 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-79 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 4px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border: 0px none rgb(28, 28, 28);
+  display: flex;
+  align-items: center;
+  color: rgb(28, 28, 28);
+}
+
+.style-80 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-81 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-82 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+  margin-left: 12px;
+}
+
+.style-83 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-84 {
+  display: block;
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px 0px 0px 12px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border-left: 0.8px solid rgb(220, 220, 230);
+  color: rgb(69, 69, 84);
+  padding-left: 12px;
+  margin-left: 12px;
+  font-size: 12px;
+  line-height: 16px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.style-85 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-86 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-87 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-88 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-89 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-90 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-91 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-92 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-93 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-94 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-95 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-96 {
+  box-sizing: border-box;
+  margin: -8px -8px -8px 436.3px;
+  padding: 8px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  min-width: fit-content;
+  border: 0px none rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+}
+
+.style-97 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-98 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-99 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 0px;
+  transition: height 0.3s ease-in-out 0s;
+  overflow: hidden;
+}
+
+.style-100 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  position: relative;
+}
+
+.style-101 {
+  mask-image: linear-gradient(90deg, rgb(0, 0, 0) calc(100% - 64px), rgba(0, 0, 0, 0)), linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+  -webkit-mask-position-y: 0px, 100%;
+  mask-size: auto, 100% 16px;
+  mask-repeat: no-repeat, no-repeat;
+  scrollbar-color: rgb(197, 197, 214) rgb(242, 242, 245);
+  scrollbar-width: thin;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 16px 8px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  scroll-padding: 0px 16px;
+  scroll-snap-type: x;
+  display: flex;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.style-102 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-103 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-104 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-105 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-106 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-107 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-108 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-109 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-110 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-111 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-112 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-113 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-114 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-115 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-116 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-117 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-118 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-119 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-120 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-121 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-122 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-123 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-124 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-125 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-126 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-127 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-128 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-129 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-130 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-131 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-132 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-133 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-134 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-135 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-136 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-137 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-138 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-139 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-140 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-141 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-142 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-143 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-144 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-145 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-146 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-147 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-148 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-149 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-150 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-151 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-152 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-153 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-154 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-155 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-156 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-157 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-158 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-159 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-160 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-161 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-162 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-163 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-164 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-165 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-166 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-167 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-168 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-169 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-170 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-171 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-172 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-173 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-174 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-175 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-176 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-177 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-178 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-179 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-180 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-181 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-182 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-183 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-184 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-185 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-186 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-187 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-188 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-189 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-190 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-191 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-192 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-193 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-194 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-195 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-196 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-197 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-198 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-199 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-200 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-201 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-202 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-203 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-204 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-205 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-206 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-207 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-208 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-209 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-210 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-211 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -214.483px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-212 {
+  box-sizing: border-box;
+  margin: 12px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  transition: box-shadow 0.2s ease-in-out 0s;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-213 {
+  padding: 16px 16px 24px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+  height: 97.725px;
+  display: flex;
+  color: rgb(28, 28, 28);
+  text-decoration: none solid rgb(28, 28, 28);
+  position: relative;
+  flex-direction: column;
+  outline-offset: -1px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.style-214 {
+  position: absolute;
+  top: 16px;
+  right: 12px;
+  box-sizing: border-box;
+  margin: -4px -4px 4px 0px;
+  padding: 4px 8px;
+  letter-spacing: 0.5px;
+  font-weight: 700;
+  background-color: rgb(242, 242, 245);
+  border-radius: 2px;
+  text-transform: uppercase;
+  font-size: 10px;
+  line-height: 12px;
+  align-self: flex-end;
+  margin-top: -4px;
+  margin-right: -4px;
+  margin-bottom: 4px;
+}
+
+.style-215 {
+  margin-left: 8px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+}
+
+.style-216 {
+  width: 72px;
+  margin-right: 32px;
+  box-sizing: border-box;
+  margin: 0px 32px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  flex: 0 0 auto;
+}
+
+.style-217 {
+  max-width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 5px 0px 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  align-items: flex-start;
+  padding-top: 5px;
+  justify-content: center;
+  height: 57.725px;
+  width: 100%;
+}
+
+.style-218 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-219 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-220 {
+  width: 72px;
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  max-height: 100%;
+}
+
+.style-221 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 0px;
+}
+
+.style-222 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 19.2px;
+  font-size: 16px;
+  letter-spacing: -0.176px;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  margin: 0px 0px 8px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-223 {
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+}
+
+.style-224 {
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 0px;
+  width: auto;
+  max-width: 340px;
+  display: flex;
+}
+
+.style-225 {
+  height: 20px;
+  line-height: 20px;
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: auto;
+}
+
+.style-226 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  font-size: 14px;
+  letter-spacing: 0.154px;
+  margin-left: 12px;
+  height: 20px;
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px;
+  color: rgb(105, 106, 106);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.style-227 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 20px;
+  font-size: 14px;
+  letter-spacing: 0.154px;
+  height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(105, 106, 106);
+}
+
+.style-228 {
+  display: inline;
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-229 {
+  margin: 0px 12px;
+  height: 20px;
+  line-height: 20px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  color: rgb(220, 220, 230);
+}
+
+.style-230 {
+  flex-direction: row;
+  box-sizing: border-box;
+  margin: 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  align-items: baseline;
+  display: flex;
+  margin-top: 8px;
+}
+
+.style-231 {
+  display: none;
+  padding: 12px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-232 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+  color: rgb(69, 69, 84);
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.style-233 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-234 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-235 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-236 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  background-color: rgb(229, 229, 221);
+  display: block;
+  height: 1px;
+  border: 0px none rgb(28, 28, 28);
+  outline: rgb(28, 28, 28) none 0px;
+}
+
+.style-237 {
+  padding: 12px 16px;
+  box-sizing: border-box;
+  margin: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-238 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+}
+
+.style-239 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-240 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 4px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border: 0px none rgb(28, 28, 28);
+  display: flex;
+  align-items: center;
+  color: rgb(28, 28, 28);
+}
+
+.style-241 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-242 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-243 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+  margin-left: 12px;
+}
+
+.style-244 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-245 {
+  display: block;
+  box-sizing: border-box;
+  margin: 0px 0px 0px 12px;
+  padding: 0px 0px 0px 12px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  border-left: 0.8px solid rgb(220, 220, 230);
+  color: rgb(69, 69, 84);
+  padding-left: 12px;
+  margin-left: 12px;
+  font-size: 12px;
+  line-height: 16px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.style-246 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-247 {
+  box-sizing: border-box;
+  margin: 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-248 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 16.8px;
+  font-size: 12px;
+  letter-spacing: 0.132px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(28, 28, 28);
+}
+
+.style-249 {
+  box-sizing: border-box;
+  margin: -8px -8px -8px 1044.6px;
+  padding: 8px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  min-width: fit-content;
+  border: 0px none rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+}
+
+.style-250 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+}
+
+.style-251 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-252 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 0px;
+  transition: height 0.3s ease-in-out 0s;
+  overflow: hidden;
+}
+
+.style-253 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  position: relative;
+}
+
+.style-254 {
+  mask-image: linear-gradient(90deg, rgb(0, 0, 0) calc(100% - 64px), rgba(0, 0, 0, 0)), linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0));
+  -webkit-mask-position-y: 0px, 100%;
+  mask-size: auto, 100% 16px;
+  mask-repeat: no-repeat, no-repeat;
+  scrollbar-color: rgb(197, 197, 214) rgb(242, 242, 245);
+  scrollbar-width: thin;
+  padding-bottom: 8px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px 16px 8px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  scroll-padding: 0px 16px;
+  scroll-snap-type: x;
+  display: flex;
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+.style-255 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-256 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-257 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-258 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-259 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-260 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-261 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-262 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-263 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-264 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-265 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-266 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-267 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-268 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-269 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-270 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-271 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-272 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-273 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-274 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-275 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-276 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-277 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-278 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-279 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-280 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-281 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-282 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-283 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-284 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-285 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-286 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-287 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-288 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-289 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-290 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-291 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-292 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-293 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-294 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-295 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-296 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-297 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-298 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-299 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-300 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-301 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-302 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-303 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-304 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-305 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-306 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-307 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-308 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-309 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-310 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-311 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-312 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-313 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-314 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-315 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-316 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-317 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-318 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-319 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-320 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-321 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-322 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-323 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-324 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-325 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-326 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-327 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-328 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-329 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-330 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-331 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-332 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-333 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-334 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-335 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-336 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-337 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-338 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-339 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-340 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-341 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-342 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-343 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-344 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-345 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-346 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-347 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-348 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-349 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-350 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-351 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-352 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-353 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-354 {
+  box-sizing: border-box;
+  margin: 0px 0px 0px 16px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  min-width: 248px;
+  width: 248px;
+  transition: border 0.2s ease-in-out 0s;
+  margin-left: 16px;
+  scroll-snap-align: start;
+  border-radius: 8px;
+  border: 0.8px solid rgb(229, 229, 221);
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+}
+
+.style-355 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 16px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-356 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 40%;
+  height: 16px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-357 {
+  box-sizing: border-box;
+  margin: 12px 0px 8px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.style-358 {
+  box-sizing: border-box;
+  margin: 0px 8px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 32px;
+  width: 32px;
+  border-radius: 50%;
+  margin-right: 8px;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-359 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 88px;
+  height: 16px;
+  display: flex;
+  min-width: 90px;
+}
+
+.style-360 {
+  max-width: 100%;
+  display: block;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+}
+
+.style-361 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-362 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-363 {
+  box-sizing: border-box;
+  margin: 0px 0px 4px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-bottom: 4px;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-364 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  height: 16px;
+  width: 100%;
+  will-change: background;
+  animation: 2s linear 0s infinite normal forwards running styles_placeHolderShimmer__8vKKb;
+  background: rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(242, 242, 245) 8%, rgb(220, 220, 230) 18%, rgb(242, 242, 245) 33%) repeat scroll -318.942px 0px / 1000px 100px padding-box border-box;
+  position: relative;
+}
+
+.style-365 {
+  box-sizing: border-box;
+  margin: 40px 0px 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  margin-top: 40px;
+}
+
+.style-366 {
+  margin-left: 0px;
+  margin-right: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  position: relative;
+}
+
+.style-367 {
+  display: none;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  right: auto;
+  left: -48px;
+  position: absolute;
+  top: calc(50% - 20px);
+}
+
+.style-368 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  --spinner-color: #205cd4;
+  overflow: hidden;
+  min-width: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+  border: 0.8px solid rgb(32, 92, 212);
+  border-radius: 9999px;
+}
+
+.style-369 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 16.8px;
+  font-size: 14px;
+  letter-spacing: -0.154px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  color: rgb(32, 92, 212);
+}
+
+.style-370 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+  transform: none;
+}
+
+.style-371 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-372 {
+  display: flex;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  position: absolute;
+  right: -48px;
+  top: -20px;
+}
+
+.style-373 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  --spinner-color: #205cd4;
+  overflow: hidden;
+  min-width: 0px;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+  border: 0.8px solid rgb(32, 92, 212);
+  border-radius: 9999px;
+}
+
+.style-374 {
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 16.8px;
+  font-size: 14px;
+  letter-spacing: -0.154px;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  color: rgb(32, 92, 212);
+}
+
+.style-375 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  fill: rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+  font-family: TrustpilotDefaultFont, Arial, sans-serif;
+  vertical-align: middle;
+  transform: matrix(1, 0, 0, 1, 1, 0);
+}
+
+.style-376 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-377 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  display: none;
+}
+
+.style-378 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  text-decoration: none solid rgb(32, 92, 212);
+  color: rgb(32, 92, 212);
+}
+
+.style-379 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  width: 100%;
+  z-index: 89;
+}
+
+.style-380 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-381 {
+  border: 0px;
+  clip: rect(0px, 0px, 0px, 0px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0px;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  clip: rect(0px, 0px, 0px, 0px);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0px;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap;
+  overflow-wrap: normal;
+  box-sizing: border-box;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-382 {
+  position: absolute;
+  display: none;
+  width: 50px;
+  height: 50px;
+  z-index: 2147483647;
+  border-style: none;
+  background: transparent;
+  display: none;
+  width: 50px;
+  height: 50px;
+  z-index: 2147483647;
+  border-style: none;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-383 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-384 {
+  width: 256px;
+  height: 60px;
+  display: block;
+  transition: right 0.3s ease 0s;
+  position: fixed;
+  bottom: 14px;
+  right: -186px;
+  box-shadow: gray 0px 0px 5px;
+  border-radius: 2px;
+  overflow: hidden;
+  visibility: hidden;
+  height: 60px;
+  display: block;
+  transition: right 0.3s ease 0s;
+  position: fixed;
+  bottom: 14px;
+  right: -186px;
+  box-shadow: rgb(128, 128, 128) 0px 0px 5px 0px;
+  border-radius: 2px;
+  overflow: hidden;
+  visibility: hidden;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-385 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-386 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-387 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-388 {
+  width: 250px;
+  height: 40px;
+  border: 1px solid rgb(193, 193, 193);
+  margin: 10px 25px;
+  padding: 0px;
+  resize: none;
+  display: none;
+  height: 40px;
+  border: 0.8px solid rgb(193, 193, 193);
+  margin: 10px 25px;
+  padding: 0px;
+  resize: none;
+  display: none;
+  box-sizing: border-box;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-389 {
+  display: none;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-390 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}
+
+.style-391 {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0% / auto padding-box border-box;
+  z-index: 2147483646;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: none;
+  animation-name: onetrust-fade-in;
+  animation-duration: 0.4s;
+  animation-timing-function: ease-in-out;
+}
+
+.style-392 {
+  display: none !important;
+  width: 1px !important;
+  height: 1px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  width: 1px !important;
+  height: 1px;
+  opacity: 0;
+  pointer-events: none;
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+}

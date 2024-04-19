@@ -1,0 +1,35 @@
+.ghost-btn,
+.contained-btn {
+  padding: 0.55rem;
+  font-size: 1.15rem;
+  border-radius: 0.35rem;
+
+  &:active {
+    transform: scale(0.95);
+  }
+
+  &--sm {
+    padding: 0.35rem;
+    font-size: 0.85rem;
+  }
+}
+
+.ghost-btn {
+  border: 2px solid $primary-color;
+  color: $primary-color;
+  &:hover {
+    background-color: $primary-color;
+    color: #fff;
+  }
+}
+.contained-btn {
+  background-color: $primary-color;
+  color: #fff;
+  border: 2px solid transparent;
+
+  &:hover {
+    background-color: transparent;
+    border: 2px solid $primary-color;
+    color: $primary-color;
+  }
+}

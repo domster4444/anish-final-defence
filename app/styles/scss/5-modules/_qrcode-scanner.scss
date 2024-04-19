@@ -1,0 +1,20 @@
+#reader__scan_region {
+  background-image: url("https://www.formsite.com/wp-content/uploads/2018/09/qrcode-feature.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  img {
+    display: none;
+  }
+}
+
+#html5-qrcode-button-camera-permission,
+#html5-qrcode-button-camera-start,
+#html5-qrcode-button-camera-stop {
+  padding: 0.35rem 0.85rem;
+  color: white;
+  border-radius: 0.25rem;
+  margin-bottom: 1rem;
+  background: #bb84e8;
+}
